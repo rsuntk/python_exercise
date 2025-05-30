@@ -18,6 +18,6 @@ print("Jumlah dari %d+%d=%d" % (angka1, angka2, jumlah))
 input("Press to continue (Loop)")
 
 i = 1
-while i <= 5:
+while i <= 10:
   print(i)
   i += 1
