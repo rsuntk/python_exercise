@@ -1,9 +1,11 @@
+#! /usr/bin/env python3
+
 angka = int(input("Masukan Angka: "))
 if angka % 2 == 0:
   print("Angka tersebut genap.")
 else:
   print("Angka tersebut ganjil.")
-  
+
 input("Press to continue (Penjumlahan)")
 
 angka1 = int(input("Masukan angka pertama"))
